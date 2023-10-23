@@ -23,7 +23,7 @@
 }
 .nav-links{
  text-align: end;
- 
+
 }
 .main{
     height: 200px;
@@ -31,5 +31,11 @@
     align-items: center;
 }
 .main-content{
+    width: 100%;
     display: inline;
+}
+.main-content img{
+    margin: 20px;
+    width: 90%;
+    height: 200px;
 }
